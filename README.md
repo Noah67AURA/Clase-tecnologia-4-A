@@ -1,3 +1,3 @@
 # Clase-tecnologia-4-A
 <p align="center">
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5c5c3543-6f0a-4b2c-a83b-ca7edb7ed3cd" />
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/4dece5ea-b303-442c-a096-f131df2d0de8" />
