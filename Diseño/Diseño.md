@@ -8,7 +8,6 @@ Mi idea es coger una tabla de madera en la que poner tres enganches en forma de 
 
 # Idea en grupo
 
-## Idea conjunta
 Este grupo compuesto por Noah Lee y Guillermo Cuesta alumnos de 4 ESO se han juntado para poner sus dos ideas en conjunto:
 - En primer lugar la zona de localización del mapa será en la parte trasera del ascensor de color azul situado enfrente de la biblioteca. Qué esta idea fue pensada por los dos.
 - En cuanto a colocación del mapa nos hemos quedado con mi idea que consta en coger un a tabla de madera la cuál tendrá la forma del mapa de Jaén pero con menos vértices, después, lo sujetaremos a través de unos enganches de metal en forma de L para su propia sujeción. Estos estarían situados dos en la parte de abajo y uno arriba del mapa para evitar que se caiga hacia adelante.
