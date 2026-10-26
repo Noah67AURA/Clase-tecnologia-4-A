@@ -21,17 +21,31 @@ En nuestro grupo, formado por Guillermo, Marco, Lorenzo y yo, hemos decidido esc
 ## Idea principal
 Crear una caseta de pájaro inteligente, la cual tenga dispensadores de agua y comida para estos y en la que se detecte la humedad y temperatura del lugar. También se detectará cuando entre y salga un pájaro de la caseta, permitiéndonos saber en todo momento cuando hay actividad en la caseta.
 
-## Lista de materiales
+## Lista de materiales, componentes y dispositivos de diseño
+
 ·Sensor de movimiento (x1)
+
 ·Sensor de temperatura y humedad (x1)
+
 ·Sensor ultrasonido (x1)
+
 ·Sensores de presión (x1)
+
 ·Servomotor (x1)
+
 ·Placa ESP32 Plus
+
 ·Depósito de comida
+
 ·Sensor de nivel de agua (x2)
+
 ·Bomba de agua+tubo (x1)
+
 ·Depósito donde guardar el agua 
+
 ·Cables 
+
 ·Impresora 3D
+
 ·Cortadora láser
+
