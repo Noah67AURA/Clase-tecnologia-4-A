@@ -32,7 +32,7 @@ En nuestro grupo, formado por Guillermo, Marco, Lorenzo y yo, hemos decidido esc
 Entre todos hemos elegido la idea de Lorenzo la cual es crear una caseta de pájaro inteligente, la cual tenga dispensadores de agua y comida para estos y en la que se detecte la humedad y temperatura del lugar. También se detectará cuando entre y salga un pájaro de la caseta, permitiéndonos saber en todo momento cuando hay actividad en la caseta. En nuestro caso no tenemos presupuesto suficiente presupuesto pero si se consigue desarrollar se podría poner una cámara la cual se encienda cuando se detecte que ha entrado un pájaro y con una IA que vaya conectada a la cámara que pueda reconocer el tipo de pájaro, toda esta información se podría comunicar al dueño del pájaro mediante una aplicación que esté conectada a la caseta, la cual aparte de enviarte el video con el tipo te dice directamente todos los datos como la humedad, comida, etc. 
 
 ## Lista de materiales, componentes y dispositivos de diseño
-| Lista de materiales/Componente/Dispositivo de diseño | Función |
+| Lista de materiales/Componentes/Dispositivos de diseño | Función |
 |------------|----------|
 | Sensor de movimiento (x1) | Detectar si entra un pájaro. Esta información sirve para saber si es necesario realizar cambios, como cambiar la ubicación de la caseta. |
 | Sensor de temperatura y humedad (x1) | Detectar si existe un ambiente adecuado para los pájaros. |
