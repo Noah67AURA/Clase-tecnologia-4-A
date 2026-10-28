@@ -1,7 +1,7 @@
 
 # Imágenes de mi idea
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/e3175c5f-473a-4e85-9ccf-3371ad17a77b" />
-<img width="231" height="234" alt="image" src="https://github.com/user-attachments/assets/d9aba91c-5c2e-4f02-b0db-072270e5c5f9" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d9aba91c-5c2e-4f02-b0db-072270e5c5f9" />
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6caff2bd-ce3a-4caf-a4b6-9473cfa13710" />
 
 # Imágenes del gupo
