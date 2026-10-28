@@ -13,7 +13,8 @@ Para que la papelera pueda detectar ella sola cuando se ha echado algo y el mate
 · Después de detectar el material, la papelera procederá a inclinar la base donde esta el residuo hacia el apartado correspondiemte.
 Todo esto controlado por una placa arduino
 
-<p align="center"> Imagen creada con IA
+<p align="center"> <img width="1255" height="862" alt="image" src="https://github.com/user-attachments/assets/3b0ace89-7ca2-4ebb-a7ac-ba6438186495" />
+Imagen creada con IA
 </p>
 
 # Idea grupal
