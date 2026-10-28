@@ -3,7 +3,7 @@
 ## Lugar
 En la parte trasera del ascensor, ponerlo encima del cuadro.
 <p align="center">
-  <img width="1043" height="1956" alt="image" src="https://github.com/user-attachments/assets/f8b6b2f1-73e5-4f0d-ab8f-a1d10396d600" />
+  <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/f8b6b2f1-73e5-4f0d-ab8f-a1d10396d600" />
 </p>
 
 
