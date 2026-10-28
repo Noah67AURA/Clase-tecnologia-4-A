@@ -34,34 +34,36 @@ Crear una caseta de pájaro inteligente, la cual tenga dispensadores de agua y c
 
 ## Lista de materiales, componentes y dispositivos de diseño
 
-·Sensor de movimiento (x1)
+|Sensor de movimiento (x1)| Para detectar si entra un pájaro. Esta información nos sirve para saber si tenemos que hacer algún cambio como cambiar de lugar la caseta|
 
-·Sensor de temperatura y humedad (x1)
+|Sensor de temperatura y humedad (x1)| Para detectar si hay un buen hambiente para los pájaros|
 
-·Sensor ultrasonido (x1)
+|Sensor ultrasonido (x1)| Para detectar si hay pájaros por los alrededores|
 
-·Sensores de presión (x1)
+|Sensores de presión (x1)| Para saber si hay algún pájaro posado en la entrada de la caseta|
 
-·Servomotor (x1)
+|Dispensador de agua| Para poder tener agua en la caseta accesible para los pájaros|
 
-·Placa ESP32 Plus
+|Servomotor (x1)| Para abrir la compuerta del agua para que se rellene el dispensador|
 
-·Depósito de comida
+|Placa ESP32 Plus| Para poder controlar todos los menicanismos|
 
-·Sensor de nivel de agua (x2)
+|Dispensador de comida| Para guardar la comida y que puedan comer directamente de este|
 
-·Bomba de agua+tubo (x1)
+|Sensor de nivel de agua (x2)| Para saber cuando rellenar el deposito de agua|
 
-·Depósito donde guardar el agua 
+|Bomba de agua + tubo (x1)| Para poder llevar el agua desde un deposito de agua accesible y no tener que acceder directamente a la caseta de pájaros|
 
-·Cables 
+|Depósito donde guardar el agua| Para guardar el agua en un depósito fuera de la caseta para que al rellenarlo no haga falta acceder directamente a la caseta|
 
-·Impresora 3D + Filamento
+|Cables| Para la placa|
 
-·Cortadora láser
+|Impresora 3D + Filamento| Para imprimir las partes de la caseta|
+
+|Cortadora láser| Para darle forma a algunas impresiones|
 
 
 ## ODS
-Este proyecto ayudaría al ODS 15 (vida de ecosistemas terrestres), ya que la caseta de pájaro ayudaría ayudaría a estos a obtener comida, agua y refugiovde una forma fácil.
+Este proyecto ayudaría al ODS 15 (vida de ecosistemas terrestres), ya que la caseta de pájaro ayudaría ayudaría a estos a obtener comida, agua y refugio de una forma fácil.
 <p align="center"><img width="230" height="234" alt="image" src="https://github.com/user-attachments/assets/cab7a922-fd98-442f-bdce-b7d4a6d16c86" />
 </p>
