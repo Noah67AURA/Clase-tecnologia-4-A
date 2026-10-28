@@ -56,7 +56,12 @@ Crear una caseta de pájaro inteligente, la cual tenga dispensadores de agua y c
 
 ·Cables 
 
-·Impresora 3D
+·Impresora 3D + Filamento
 
 ·Cortadora láser
 
+
+## ODS
+Este proyecto ayudaría al ODS 15 (vida de ecosistemas terrestres), ya que la caseta de pájaro ayudaría ayudaría a estos a obtener comida, agua y refugiovde una forma fácil.
+<p align="center"><img width="230" height="234" alt="image" src="https://github.com/user-attachments/assets/cab7a922-fd98-442f-bdce-b7d4a6d16c86" />
+</p>
