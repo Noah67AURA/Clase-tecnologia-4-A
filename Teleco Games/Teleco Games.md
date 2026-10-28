@@ -1,16 +1,15 @@
 # Mi idea
 Para este trabajo, yo había pensado en crear una papelera la cual al tu echarle basura, ella misma, pueda detectar de que material es la basura que estás echando y dependiendo de lo que sea que lo lleve a su respectivo apartado de reciclaje.
 Para que la papelera pueda detectar ella sola cuando se ha echado algo y el materia de lo que está hecho la basura, se puede usar:
+| Componente | Función |
+|------------|----------|
+|Sensor de movimiento| Para saber cuando se ha echado algo|
+|Sensor inductivo| Para detectar el metal|
+|Sensor infrarrojo| Para detectar el plástico, papel y vidrio|
+|Cámara con IA| Para detectar los demás tipos de restos y no confundirlos|
 
-· Primero un sensor de movimiento para saber cuando se ha echado algo.
 
-· Para detectar el metal, se usaría un sensor inductivo.
-
-· Para detectar el plástico, papel y vidrio, un sensor infrarrojo.
-
-· Y para detectar los demás tipos de restos y no confundirlos, una cámara con IA que lo analice.
-
-· Después de detectar el material, la papelera procederá a inclinar la base donde esta el residuo hacia el apartado correspondiemte.
+Después de detectar el material, la papelera procederá a inclinar la base donde esta el residuo hacia el apartado correspondiemte.
 Todo esto controlado por una placa arduino
 
 <p align="center"> <img width="1255" height="862" alt="image" src="https://github.com/user-attachments/assets/3b0ace89-7ca2-4ebb-a7ac-ba6438186495" />
@@ -52,6 +51,6 @@ Entre todos hemos elegido la idea de Lorenzo la cual es crear una caseta de páj
 
 
 ## ODS
-Este proyecto ayudaría al ODS 15 (vida de ecosistemas terrestres), ya que la caseta de pájaro ayudaría ayudaría a estos a obtener comida, agua y refugio de una forma fácil.
+Este proyecto ayudaría al ODS 15 (vida de ecosistemas terrestres), ya que la caseta de pájaro ayudaría a estos a obtener comida, agua y refugio de una forma fácil.
 <p align="center"><img width="230" height="234" alt="image" src="https://github.com/user-attachments/assets/cab7a922-fd98-442f-bdce-b7d4a6d16c86" />
 </p>
