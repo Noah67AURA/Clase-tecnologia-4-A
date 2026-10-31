@@ -46,6 +46,8 @@ El mapa estará situado a la derecha de la puerta de la biblioteca, encima de la
 
 ## Cómo sujetarlo
 El mapa estará unido primero sobre una tabla de madera cuadrada gracias a unos enganches en forma de "u" en la parte inferior, superior y en uno de los lados, y otro en forma de "s" en el lado sobrante. Después, la tabla junto al mapa se pondrán en la pared como si fuera un cuadro, con la diferencia de que se buscará que esté un poco inclinado hacia abajo para verlo mejor. Esta idea la propuse yo con el cambio de que se va a poner el tablón de madera completamente rectangular y se usará un enganche con forma de "s" para poder desatornillarlo para sacar el mapa.
+<p align="center"><img width="1095" height="684" alt="image" src="https://github.com/user-attachments/assets/365307a3-1de0-4c5b-86e7-c73fbbb37921" />
+</p>
 
 ## Interacción con el mapa
 En el espacio de la tabla de madera que no esté ocupado por el mapa, se pondrán varios QRR para poder escanearlos y obtener información sobre los monumentos y para encender la luz, se le dará a un interruptor. Esta idea fue propuesta por Guillermo con la diferencia de que los QRR no estarán encima del mapa y que no se podrá encender la luz mediante estos.
