@@ -5,8 +5,7 @@
 En este curso vamos a aprender a usar Git Hub, que va a ser la plataforma la cual vamos a usar para guardar todo el progreso que hagamos en el cuso de 4º
 | Componentes | Función |
 |------------|----------|
-|Diseño|Clase-tecnologia-4-A/Diseño at main · Noah67AURA/Clase-tecnologia-4-A |
-|Electrónica básica|Clase-tecnologia-4-A/Electrónica básica at main · Noah67AURA/Clase-tecnologia-4-A |
-|Neumática|Clase-tecnologia-4-A/Neumática at main · Noah67AURA/Clase-tecnologia-4-A |
-|ODS|Clase-tecnologia-4-A/ODS at main · Noah67AURA/Clase-tecnologia-4-A |
-|Teleco Games|Clase-tecnologia-4-A/Teleco Games at main · Noah67AURA/Clase-tecnologia-4-A |
+|Sensor de movimiento| Para saber cuando se ha echado algo|
+|Sensor inductivo| Para detectar el metal|
+|Sensor infrarrojo| Para detectar el plástico, papel y vidrio|
+|Cámara con IA| Para detectar los demás tipos de restos y no confundirlos|
