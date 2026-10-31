@@ -41,6 +41,8 @@ Después de ver las ideas de todos los grupos, hemos llegado a la conclusión de
 
 ## Lugar
 El mapa estará situado a la derecha de la puerta de la biblioteca, encima de la vitrina de los premios de robótica. El único inconveniente es que habría que quitar los carteles del proyecto Erasmus, pero estos se pueden colocar en otra parte. Este sitio lo propuso Lorenzo.
+<p align="center"><img width="439" height="973" alt="image" src="https://github.com/user-attachments/assets/bc859531-b9d5-47e4-8971-4ff5f366ab76" />
+</p>
 
 ## Cómo sujetarlo
 El mapa estará unido primero sobre una tabla de madera cuadrada gracias a unos enganches en forma de "u" en la parte inferior, superior y en uno de los lados, y otro en forma de "s" en el lado sobrante. Después, la tabla junto al mapa se pondrán en la pared como si fuera un cuadro, con la diferencia de que se buscará que esté un poco inclinado hacia abajo para verlo mejor. Esta idea la propuse yo con el cambio de que se va a poner el tablón de madera completamente rectangular y se usará un enganche con forma de "s" para poder desatornillarlo para sacar el mapa.
