@@ -1,7 +1,7 @@
 # Mi idea
 Para este trabajo, yo había pensado en crear una papelera la cual al tu echarle basura, ella misma, pueda detectar de que material es la basura que estás echando y dependiendo de lo que sea que lo lleve a su respectivo apartado de reciclaje.
 Para que la papelera pueda detectar ella sola cuando se ha echado algo y el materia de lo que está hecho la basura, se puede usar:
-| Componente | Función |
+| Componentes | Función |
 |------------|----------|
 |Sensor de movimiento| Para saber cuando se ha echado algo|
 |Sensor inductivo| Para detectar el metal|
