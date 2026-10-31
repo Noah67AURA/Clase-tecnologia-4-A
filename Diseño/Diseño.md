@@ -32,6 +32,7 @@ La zona de localización del mapa será en la parte trasera del ascensor de colo
 En cuanto a colocación del mapa nos hemos quedado con mi idea que consta en coger un a tabla de madera la cuál tendrá la forma del mapa de Jaén pero con menos vértices, el cual, lo sujetaremos a través de unos enganches de metal en forma de L entre si (estando situados dos en la parte de abajo y uno arriba del mapa para evitar que se caiga hacia adelante) y este estará sujeto a la pared como si fuera un cuadro.
 <p align="center"> <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/59508273-af68-4953-a8db-9db55a387797" />
 </p>
+
 ## Interacción con el mapa
 Nos quedamos con la idea de Guillermo la cuál consta de lo siguiente: a través de varios QRR al ser escaneados nos encontraremos información de dicho monumento o empresa que hayamos escaneado y al final de su información nos encontraremos un botón que al ser pulsado encenderá las luces del monumento o empresa del cuál hayas leído su propia información.
 
