@@ -18,3 +18,6 @@
 
 # Imágenes de la idea final
 <p align="center"><img width="439" height="973" alt="image" src="https://github.com/user-attachments/assets/bc859531-b9d5-47e4-8971-4ff5f366ab76" />
+<p align="center"><img width="1095" height="684" alt="image" src="https://github.com/user-attachments/assets/365307a3-1de0-4c5b-86e7-c73fbbb37921" />
+</p>
+
