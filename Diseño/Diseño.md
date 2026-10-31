@@ -3,6 +3,7 @@ El primer trabajo de que vamos a hacer va a ser pensar en donde y como poner un 
 <p align="center">
   <img width="1910" height="861" alt="image" src="https://github.com/user-attachments/assets/17b96101-d415-4d71-a442-97955e6de668" />
 </p>
+
 # Mi idea
 
 ## Lugar
