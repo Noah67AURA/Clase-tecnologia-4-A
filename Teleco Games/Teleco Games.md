@@ -30,6 +30,9 @@ En nuestro grupo, formado por Guillermo, Marco, Lorenzo y yo, hemos decidido esc
 
 ## Idea principal
 Entre todos hemos elegido la idea de Lorenzo la cual es crear una caseta de pájaro inteligente, la cual tenga dispensadores de agua y comida para estos y en la que se detecte la humedad y temperatura del lugar. También se detectará cuando entre y salga un pájaro de la caseta, permitiéndonos saber en todo momento cuando hay actividad en la caseta. En nuestro caso no tenemos presupuesto suficiente presupuesto pero si se consigue desarrollar se podría poner una cámara la cual se encienda cuando se detecte que ha entrado un pájaro y con una IA que vaya conectada a la cámara que pueda reconocer el tipo de pájaro, toda esta información se podría comunicar al dueño del pájaro mediante una aplicación que esté conectada a la caseta, la cual aparte de enviarte el video con el tipo te dice directamente todos los datos como la humedad, comida, etc. 
+<p align="center"> <img width="512" height="590" alt="image" src="https://github.com/user-attachments/assets/f9f7cefb-a5f5-45c4-973f-6aedaa2e6f43" />
+Diseño creado por guillermo.
+</p>
 
 ## Lista de materiales, componentes y dispositivos de diseño
 | Lista de materiales/Componentes/Dispositivos de diseño | Función |
