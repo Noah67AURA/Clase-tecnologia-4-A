@@ -1,6 +1,7 @@
 
 # Imágenes de mi idea
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/e3175c5f-473a-4e85-9ccf-3371ad17a77b" />
+<img width="500" height="600" alt="36844 (1)" src="https://github.com/user-attachments/assets/7d81cb90-3d77-4df4-a233-fa67e6a647e6" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d9aba91c-5c2e-4f02-b0db-072270e5c5f9" />
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6caff2bd-ce3a-4caf-a4b6-9473cfa13710" />
 
