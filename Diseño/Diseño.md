@@ -18,6 +18,10 @@ En la parte trasera del ascensor, ponerlo encima del cuadro.
 
 ## Cómo sujetarlo
 Mi idea es coger una tabla de madera en la que poner tres enganches en forma de L, preferentemente de metal, para sujetar el mapa. Serían dos abajo para sostenerlo y uno arriba para que no se caiga hacia adelante. Y en caso de que se quieran encender las luces, solo habría que subir al segundo piso y asomarse por la barandilla para encenderlas.
+<p align="center"> <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d9aba91c-5c2e-4f02-b0db-072270e5c5f9" />
+<p align="center"> <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6caff2bd-ce3a-4caf-a4b6-9473cfa13710" />
+</p>
+
 
 # Idea en grupo
 
