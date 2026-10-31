@@ -20,7 +20,7 @@ Imagen creada con IA
 Este trabajo ayudaría a los OODS 12,11 y 13.
 
 
-<p align="center"> <img width="311" height="478" alt="image" src="https://github.com/user-attachments/assets/bf317a0d-deb3-4957-89a6-2d6f6714c770" /><img width="395" height="439" <p align="center"> alt="image" src="https://github.com/user-attachments/assets/bc9a8da5-8da2-405c-812a-75a464c04a61" /><img width="393" height="475" alt="image" src="https://github.com/user-attachments/assets/f48d343b-ea31-49ee-be8c-59efa085b917" />
+<p align="center"> <img width="311" height="478" alt="image" src="https://github.com/user-attachments/assets/bf317a0d-deb3-4957-89a6-2d6f6714c770" /><img width="395" height="439" <p align="center"> alt="image" src="https://github.com/user-attachments/assets/bc9a8da5-8da2-405c-812a-75a464c04a61" /><img width="494" height="545" alt="image" src="https://github.com/user-attachments/assets/d3da28c1-df1b-415f-b278-d6b5420ee8fd" />
 </p>
 
 
