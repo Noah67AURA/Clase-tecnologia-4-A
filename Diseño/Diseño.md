@@ -2,6 +2,9 @@
 El primer trabajo de que vamos a hacer va a ser pensar en donde y como poner un mapa de Jaén en miniatura. Este trabajo se ha hecho debido a que hace aproximadamente 2 años, varios institutos de Andalucía se juntaron para hacer un mapa de Andalucía en miniatura y para no tirarlo, nuestro instituto decidió quedarse con la parte de Jaén y necesitamos encontrar un buen sitio dentro del instituto para exponerlo.
 <p align="center">
   <img width="1910" height="861" alt="image" src="https://github.com/user-attachments/assets/17b96101-d415-4d71-a442-97955e6de668" />
+  Imagen del mapa de Andalucía
+  <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/e3175c5f-473a-4e85-9ccf-3371ad17a77b" />
+  Imagen del mapa de Jaén
 </p>
 
 # Mi idea
