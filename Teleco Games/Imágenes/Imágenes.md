@@ -4,3 +4,5 @@
 </p>
 Imágenes de la idea grupal
 <p align="center"> <img width="512" height="590" alt="image" src="https://github.com/user-attachments/assets/f9f7cefb-a5f5-45c4-973f-6aedaa2e6f43" />
+<p align="center"><img width="230" height="234" alt="image" src="https://github.com/user-attachments/assets/cab7a922-fd98-442f-bdce-b7d4a6d16c86" />
+</p>
