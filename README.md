@@ -4,8 +4,4 @@
 <p align="center">
 En este curso vamos a aprender a usar Git Hub, que va a ser la plataforma la cual vamos a usar para guardar todo el progreso que hagamos en el cuso de 4º
 
-[Diseño](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/Dise%C3%B1o/Dise%C3%B1o.md) |
-[Electrónica básica](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/Electr%C3%B3nica%20b%C3%A1sica/Electr%C3%B3nica%20b%C3%A1sica.md)|
-[Neumática](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/Neum%C3%A1tica/Neum%C3%A1tica.md)
-[ODS](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/ODS/ODS.md)
-[Teleco games](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/Teleco%20Games/Teleco%20Games.md)
+|[Diseño](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/Dise%C3%B1o/Dise%C3%B1o.md)|[Electrónica básica](https://github.com/Noah67AURA/Clase-tecnologia-4-|A/blob/main/Electr%C3%B3nica%20b%C3%A1sica/Electr%C3%B3nica%20b%C3%A1sica.md)|[Neumática](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/Neum%C3%A1tica/Neum%C3%A1tica.md)|[ODS](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/ODS/ODS.md)|[Teleco games](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/Teleco%20Games/Teleco%20Games.md)|
