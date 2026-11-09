@@ -8,6 +8,6 @@ En este curso vamos a aprender a usar Git Hub, que va a ser la plataforma la cua
 |------------|----------|
 |Diseño|[Diseño](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/Dise%C3%B1o/Dise%C3%B1o.md) |
 [Electrónica básica](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/Electr%C3%B3nica%20b%C3%A1sica/Electr%C3%B3nica%20b%C3%A1sica.md)|
-|Neumática|Clase-tecnologia-4-A/Neumática at main · Noah67AURA/Clase-tecnologia-4-A |
+[Neumática](https://github.com/Noah67AURA/Clase-tecnologia-4-A/blob/main/Neum%C3%A1tica/Neum%C3%A1tica.md)
 |ODS| Clase-tecnologia-4-A/ODS at main · Noah67AURA/Clase-tecnologia-4-A|
 |Teleco games| Clase-tecnologia-4-A/Teleco Games at main · Noah67AURA/Clase-tecnologia-4-A |
