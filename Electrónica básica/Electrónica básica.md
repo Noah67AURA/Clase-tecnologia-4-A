@@ -1,7 +1,17 @@
-# Resistencias
-
-# Condensadores
-
+# Resistencias fijas
+## ¿Para qué sirve?
+## Funcionamiento interno
+## Símbolo eléctrico
+## Imagen real
+## Algunas aplicaciones de uso
+## Variedades
+# Condensadores variables
+## ¿Para qué sirve?
+## Funcionamiento interno.
+## Símbolo eléctrico.
+## Imagen real.
+## Algunas aplicaciones de uso.
+## Variedades.
 ## Tiempo de apagado
 Pruebas:
 1,46”
@@ -14,4 +24,31 @@ Pruebas:
 Media: 1,55”
 
 
-# Diodo
+# Diodos
+¿Para qué sirve?
+Funcionamiento interno.
+Símbolo eléctrico.
+Imagen real.
+Algunas aplicaciones de uso.
+Variedades.
+# LEDs
+¿Para qué sirve?
+Funcionamiento interno.
+Símbolo eléctrico.
+Imagen real.
+Algunas aplicaciones de uso.
+Variedades.
+# Transistores
+¿Para qué sirve?
+Funcionamiento interno.
+Símbolo eléctrico.
+Imagen real.
+Algunas aplicaciones de uso.
+Variedades.
+# Relés
+## ¿Para qué sirve?
+## Funcionamiento interno.
+## Símbolo eléctrico.
+## Imagen real.
+## Algunas aplicaciones de uso.
+## Variedades.
