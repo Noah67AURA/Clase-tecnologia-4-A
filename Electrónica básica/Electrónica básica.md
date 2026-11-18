@@ -40,6 +40,7 @@ Media: 1,55”
 ## Variedades
 # Transistores
 ## ¿Para qué sirve?
+Código: C547BW46
 ## Funcionamiento interno
 ## Símbolo eléctrico
 ## Imagen real
