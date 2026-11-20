@@ -1,4 +1,4 @@
-<p align="center"Todas las imágenes están bajo licencia GNU</p>
+Todas las imágenes están bajo licencia GNU
   
 # Resistencias fijas
 
